@@ -1,57 +1,73 @@
 <p align="center">
   <a href="https://yonostore.vercel.app/" target="_blank">
-    <img src="https://yonostore.vercel.app/banner.jpg" alt="Yono Store Banner" style="max-width: 100%;" />
+    <img src="https://github.com/Aestero-UI/yonostore/blob/main/yono-hero.png" alt="Yono Store Hero Banner" />
   </a>
 </p>
 
-# Yono Store – India’s Real Cash App Hub 💰
+# Yono Store – Real Cash Gaming Apps Hub 🇮🇳
 
-[Yono Store](https://yonostore.vercel.app) is a professionally curated platform where users discover and download the best real-cash gaming apps in India — including **Teen Patti**, **Rummy**, **777 Slots**, and more. Our platform helps players earn instant bonuses, while affiliates benefit from high-paying rebate programs.
+**[Yono Store](https://yonostore.vercel.app)** is your go-to platform to discover trusted Indian real-cash apps like **Teen Patti**, **Rummy**, **Slot Games**, and more.  
+We help users earn welcome bonuses, rebates, and fast withdrawals through verified APKs. Affiliates and players both benefit from our rebate-backed model.
 
-> ✅ 100% Safe | ✅ Verified Apps | ✅ Instant Withdrawals | ✅ ₹51–₹150 Signup Bonus
-
----
-
-## 🚀 Live Website
-
-👉 [Visit Yono Store →](https://yonostore.vercel.app)
+> 🪙 ₹51–₹150 Signup Bonus | ✅ Verified Links | 💰 Instant Withdrawals | 🚀 Mobile Friendly
 
 ---
 
-## 🧩 Key Features
+## 🌐 Visit the Live Website
 
-- 🔥 **Affiliate-Optimized Landing Pages**  
-  Built to convert with strong CTAs and clear bonus highlights.
-
-- 📱 **Mobile-First Interface**  
-  Smooth, responsive layout designed for Android-first traffic.
-
-- 🎯 **Fast Load Times**  
-  Hosted on Vercel with minimal JavaScript for speed and SEO.
-
-- 💼 **Rebate-Driven Promotions**  
-  Boosted with verified download links and bonus codes.
+👉 [https://yonostore.vercel.app](https://yonostore.vercel.app)
 
 ---
 
-## 🖼️ Screenshot
-
-![Yono Store Preview](https://yonostore.vercel.app/preview.jpg)
-
----
-
-## ⚠️ Legal Disclaimer
-
-Yono Store promotes real-cash gaming apps for users aged **18 years or older**.  
-Real money rummy and similar games may be **restricted or banned in certain Indian states** like Andhra Pradesh, Telangana, Tamil Nadu, Assam, and Odisha.  
-Users are responsible for ensuring compliance with local laws before participating.
+<p align="center">
+  <img src="https://github.com/Aestero-UI/yonostore/blob/main/yono-preview.png" alt="Yono Store Preview" />
+</p>
 
 ---
 
-## 📄 License
+## 🎯 Popular Yono Gaming Apps
 
-This project is released under the [MIT License](LICENSE).
+Explore the top-performing real-cash apps featured on Yono Store:
+
+- 🃏 [Yono 777 – Teen Patti & Slots](https://yonostore.vercel.app/yono-777)  
+  Get ₹150 bonus to play Teen Patti and slot games instantly.
+
+- 🎲 [Yono Rummy – Real Cash Game](https://yonostore.vercel.app/yono-rummy)  
+  India’s favorite rummy app with quick KYC-free withdrawal.
+
+- 🎰 [Spin Gold – Spin & Win](https://yonostore.vercel.app/spin-gold)  
+  Try your luck with daily spins and earn real rewards.
+
+- 🏆 [IND Club – Bonus & Referral](https://yonostore.vercel.app/ind-club)  
+  Popular card game with friend referral benefits.
+
+- 💸 [Yono Slots – Play & Earn](https://yonostore.vercel.app/yono-slots)  
+  Fast slot gameplay with high payout rates.
+
+- 🔄 [JaiHo Spin – Daily Spin Game](https://yonostore.vercel.app/jaiho-spin)  
+  Spin daily for surprise gifts and quick withdrawals.
+
+- 🎰 [JaiHo Slots – Casino Slot APK](https://yonostore.vercel.app/jaiho-slots)  
+  Easy-to-play slot games with verified bonuses.
+
+- ♠️ [JaiHo Rummy – Teen Patti Variant](https://yonostore.vercel.app/jaiho-rummy)  
+  A smooth rummy gaming app with great user rewards.
+
+> 🔗 **[Browse all games here →](https://yonostore.vercel.app)**
 
 ---
 
-> 💡 _Made with ❤️ to promote legal gaming and affiliate growth across India._
+## 📢 Legal Disclaimer
+
+Yono Store promotes real-cash gaming apps for users **18+ only**.  
+Please ensure you are not located in a restricted Indian state where such games are banned (e.g., Andhra Pradesh, Telangana, Tamil Nadu, etc.).
+
+---
+
+## 📜 License
+
+This project is open-sourced under the [MIT License](LICENSE).
+
+---
+
+> Crafted by [Yono Store](https://yonostore.vercel.app) — India's hub for trusted rebate-earning games.
